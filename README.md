@@ -13,3 +13,6 @@ Projeto criado com as bibliotecas React JS e Material UI para a Atividade Práti
    `
    npm start
    `
+
+   ![image](https://github.com/user-attachments/assets/4c537b35-5246-4824-811c-598fe271aeab)
+   Tela do projeto após alterações visuais aplicadas.
