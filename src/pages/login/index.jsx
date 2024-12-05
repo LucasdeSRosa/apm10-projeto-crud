@@ -26,16 +26,14 @@ const Login = () => {
     return (   
        
         <Grid item xs={12}>
-            <FormControl fullWidth>
+            <FormControl margin='normal'>
               <Input id="login_nome" aria-describedby="login_nome_helper_text" value={login} onChange={e => { setLogin(e.target.value) }} />
-              <FormHelperText id="login_nome_helper_text">Login.</FormHelperText>
+              <FormHelperText id="login_nome_helper_text">Digite seu nome acima</FormHelperText>
             </FormControl>
           </Grid>
           
     );
 }
-
-
 
 export function TemporaryDrawer() {
   const [open, setOpen] = React.useState(false);

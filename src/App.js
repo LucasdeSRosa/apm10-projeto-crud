@@ -9,13 +9,13 @@ const theme = createTheme({
     primary: {
       light: '#ff6d00',
       main: '#ff6d00',
-      dark: '#002884',
+      dark: '#00695c',
       contrastText: '#000',
     },
     secondary: {
       light: '#ff7961',
       main: '#f44336',
-      dark: '#ba000d',
+      dark: '#00695c',
       contrastText: '#000',
     },
     third: {
@@ -34,7 +34,6 @@ function App() {
       <ThemeProvider theme={theme}>
       <Header />
       <Login />
-      <TemporaryDrawer />
       <ListarTarefa />
       </ThemeProvider>
     </div>
