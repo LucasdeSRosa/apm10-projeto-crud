@@ -1,6 +1,6 @@
 # Aplicação React de Gerenciamento de Projetos e Tarefas
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Projeto criado com as bibliotecas React JS e Material UI para a Atividade Prática do Módulo 10 de Prática Integradora de Tecnologias Disruptivas. Repositório por Lucas Rosa.
 
 ## Passo-a-passo para execução
 
